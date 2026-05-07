@@ -37,6 +37,10 @@
 
 ---
 
+![snake svg](https://raw.githubusercontent.com/mertkaratas34/mertkaratas34/output/github-contribution-grid-snake.svg)
+
+---
+
 <h3 align="center">✨ Let's Connect!</h3>
 
 <p align="center">
