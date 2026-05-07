@@ -3,8 +3,8 @@
 <table align="right">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mertkaratas34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400px"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaratas34&layout=compact&theme=tokyonight" width="400px"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mertkaratas34&show_icons=true&theme=tokyonight&include_all_commits=true" width="400px"/><br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mertkaratas34&layout=compact&theme=tokyonight" width="400px"/>
     </td>
   </tr>
 </table>
