@@ -1,39 +1,64 @@
-# 💫 About Me
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzamNvaGVrdTN0NThueDM1NmVkamNibGt1OGlyNjR1ajI2YnhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="150" alt="coding" />
+</div>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />, I'm Mert Karataş</h2>
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mertkaratas34&show_icons=true&theme=tokyonight&include_all_commits=true" width="400px"/><br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mertkaratas34&layout=compact&theme=tokyonight" width="400px"/>
-    </td>
-  </tr>
-</table>
 
-### 👋 Hello, I'm Mert!
-**Software Engineering Student | Game Dev & Systems Explorer**
 
-I am a dedicated developer focused on building efficient systems and engaging digital experiences. Currently studying at **Kırklareli University**, I spend my time diving into low-level logic and high-level creativity.
+<div align="center">
 
-- 🔭 **Current Focus:** Developing a 2D story-driven indie game in **Unity**.
-- 🛠 **Logic Exploration:** Implementing low-level simulations using **C**.
-- 🚀 **Goal:** Bridging the gap between software performance and user experience.
-- 💬 **Ask me about:** C, Python, Game Design.
+![](https://raw.githubusercontent.com/mertkaratas/mertkaratas34-profile/output/github-contribution-grid-snake.svg)
 
-### 🛠 Tech Stack & Tools
-<p align="left">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertkaratas34&theme=gotham)
+---
+
+### 🛠 Technologies & Tools
+
+**Languages & Core Development**
+<p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
+**Game Development & Engines**
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+**Tools & Environment**
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ---
-### 📬 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/mert-karatas-596658394/?skipRedirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mert Karatas" height="30" width="40" /></a>
-<a href="mailto:mertkarataspr@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mert-karatas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mert_krttss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert-karatas" height="30" width="40" /></a>
+
+<h3 align="center">✨ Let's Connect!</h3>
+
+<p align="center">
+  <a href="mailto:mertkarataspr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mert-karatas-596658394/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/mert_krttss">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mertkaratas34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
